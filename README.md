@@ -20,11 +20,11 @@ SQLCREATE TABLE todos (
 C:\xampp\htdocs\todo-app\server\api\
 
 3. проверяем сервер работает или гет
-Открой в браузере:
+открой в браузере
 http://localhost/todo-app/server/api/todos.php
-должен появиться такой текст:
+должен появиться такой текст
 {"todos":[],"stats":{"total":0,"completed":0}}
-если ошибка  проверь путь к папке или config.php (логин root, пароль пустой).
+если ошибка  проверь путь к папке или config.php (логин root пароль пустой)
 
 4. запуск фронтенда
 
