@@ -28,10 +28,10 @@ http://localhost/todo-app/server/api/todos.php
 
 4. запуск фронтенда
 
-надо открыть терминал (CMD или PowerShell)
+надо открыть терминал (CMD или powershell)
 переходим  в папку client
-cd путь_к_проекту\client
-(например cd G:\todo\client)
+cd путь к проекту\client
+(например G:\todo\client)
 качаем зависимости
 npm install
 
